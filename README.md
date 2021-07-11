@@ -24,5 +24,5 @@ The following fig. shows the general code structure of the simulation testbed, w
 5. UE
 
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ded9bc49-dbb3-4976-9005-4960496464e8/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ded9bc49-dbb3-4976-9005-4960496464e8/Untitled.png)
+[Fig](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ded9bc49-dbb3-4976-9005-4960496464e8/Untitled.png)
 
